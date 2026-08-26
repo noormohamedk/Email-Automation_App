@@ -112,7 +112,7 @@ Base path: /api
 - POST /import/csv (admin)
 
 ##  Deployment
-1. Create GitHub repo: https://github.com/baargavi100/EmailAutomation_App
+1. Create GitHub repo: 
 2. Link local repo and push (below)
 
 ##  Security Notes
