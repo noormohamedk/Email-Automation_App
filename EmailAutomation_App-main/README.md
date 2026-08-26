@@ -1,11 +1,5 @@
 ﻿# Email Automation App
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)](https://github.com/baargavi100/EmailAutomation_App/actions)
-[![Java](https://img.shields.io/badge/java-21-blue?style=flat-square)](https://www.oracle.com/java/)
-[![Spring Boot](https://img.shields.io/badge/spring--boot-3.2.3-brightgreen?style=flat-square)](https://spring.io/projects/spring-boot)
-[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
-[![Repo Size](https://img.shields.io/github/repo-size/baargavi100/EmailAutomation_App?style=flat-square)](https://github.com/baargavi100/EmailAutomation_App)
-
 ## Overview
 
 Email Automation App is a full-stack initiative for enterprise outreach workflows. It provides role-based access, contact management, templated email sends, analytics dashboarding, and workflow orchestration through n8n.
@@ -112,7 +106,7 @@ Base path: /api
 - POST /import/csv (admin)
 
 ##  Deployment
-1. Create GitHub repo: 
+1. Create GitHub repo: https://github.com/noormohamedk/Email-Automation_App
 2. Link local repo and push (below)
 
 ##  Security Notes
